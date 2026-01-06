@@ -3,7 +3,7 @@
     <img
       src="/images/name.png"
       alt="Artisan"
-      class="w-full h-14 object-contain"
+      class="w-auto h-14 mx-auto object-contain"
     />
   </header>
 </template>
